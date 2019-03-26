@@ -1,0 +1,7 @@
+.idea
+node_modules
+*.log*
+coverage
+.nyc_output
+.eslintcache
+.env
